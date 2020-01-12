@@ -1,0 +1,16 @@
+[
+{
+  "modid": "damage",
+  "name": "Damage Source Configurator",
+  "description": "A mod that lets you disable damage sources from affecting specific entities.",
+  "version": "0.69",
+  "mcversion": "1.12.2",
+  "url": "https://soggymustache.net",
+  "updateUrl": "",
+  "authorList": ["George Kazanjian"],
+  "credits": "Made with love and 5 minutes for my boy Joel and his son GenerikB",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
